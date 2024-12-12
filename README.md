@@ -1,0 +1,1 @@
+An Android dictionary application named WordWhiz using Kotlin in Android Studio. WordWhiz allows users to effortlessly look up the meanings of unfamiliar words, providing a convenient and user-friendly resource for expanding their vocabulary.
